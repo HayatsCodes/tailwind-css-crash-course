@@ -550,6 +550,14 @@ video {
   margin-right: auto;
 }
 
+.flex {
+  display: flex;
+}
+
+.flex-col {
+  flex-direction: column;
+}
+
 .p-6 {
   padding: 1.5rem;
 }
