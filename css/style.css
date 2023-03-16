@@ -538,6 +538,10 @@ video {
   height: 50%;
 }
 
+.h-24 {
+  height: 6rem;
+}
+
 .w-screen {
   width: 100vw;
 }
