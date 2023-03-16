@@ -529,3 +529,11 @@ video {
   font-size: 1.875rem;
   line-height: 2.25rem;
 }
+
+.italic {
+  font-style: italic;
+}
+
+.underline {
+  text-decoration-line: underline;
+}
