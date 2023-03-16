@@ -574,6 +574,11 @@ video {
   --tw-gradient-stops: var(--tw-gradient-from), #000, var(--tw-gradient-to);
 }
 
+.via-white {
+  --tw-gradient-to: rgb(255 255 255 / 0);
+  --tw-gradient-stops: var(--tw-gradient-from), #fff, var(--tw-gradient-to);
+}
+
 .to-blue-700 {
   --tw-gradient-to: #1d4ed8;
 }
