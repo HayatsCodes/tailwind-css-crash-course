@@ -518,6 +518,10 @@ video {
   margin-right: auto;
 }
 
+.grid {
+  display: grid;
+}
+
 .h-full {
   height: 100%;
 }
@@ -573,6 +577,10 @@ video {
 
 .basis-6\/12 {
   flex-basis: 50%;
+}
+
+.grid-cols-2 {
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .bg-red-500 {
