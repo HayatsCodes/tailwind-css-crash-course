@@ -513,10 +513,6 @@ video {
   --tw-backdrop-sepia:  ;
 }
 
-.h-full {
-  height: 100%;
-}
-
 .max-h-full {
   max-height: 100%;
 }
