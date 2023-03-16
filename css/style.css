@@ -591,6 +591,10 @@ video {
   background-size: cover;
 }
 
+.bg-fixed {
+  background-attachment: fixed;
+}
+
 .bg-left {
   background-position: left;
 }
