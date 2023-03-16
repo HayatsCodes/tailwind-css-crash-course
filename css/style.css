@@ -546,3 +546,11 @@ video {
 .bg-opacity-10 {
   --tw-bg-opacity: 0.1;
 }
+
+.bg-opacity-30 {
+  --tw-bg-opacity: 0.3;
+}
+
+.bg-opacity-20 {
+  --tw-bg-opacity: 0.2;
+}
