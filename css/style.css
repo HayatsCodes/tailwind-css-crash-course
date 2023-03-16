@@ -533,6 +533,10 @@ video {
   width: 100%;
 }
 
+.basis-6\/12 {
+  flex-basis: 50%;
+}
+
 .bg-red-500 {
   --tw-bg-opacity: 1;
   background-color: rgb(239 68 68 / var(--tw-bg-opacity));
