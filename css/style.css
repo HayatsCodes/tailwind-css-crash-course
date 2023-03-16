@@ -591,6 +591,10 @@ video {
   background-size: cover;
 }
 
+.bg-left {
+  background-position: left;
+}
+
 .bg-no-repeat {
   background-repeat: no-repeat;
 }
