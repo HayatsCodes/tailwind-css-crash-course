@@ -583,6 +583,10 @@ video {
   --tw-gradient-to: #1d4ed8;
 }
 
+.bg-contain {
+  background-size: contain;
+}
+
 .bg-no-repeat {
   background-repeat: no-repeat;
 }
