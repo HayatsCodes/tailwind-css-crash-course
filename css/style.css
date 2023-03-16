@@ -582,3 +582,7 @@ video {
 .to-blue-700 {
   --tw-gradient-to: #1d4ed8;
 }
+
+.bg-no-repeat {
+  background-repeat: no-repeat;
+}
