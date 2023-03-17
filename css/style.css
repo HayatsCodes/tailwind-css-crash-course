@@ -723,6 +723,10 @@ video {
   padding: 0.25rem;
 }
 
+.text-center {
+  text-align: center;
+}
+
 .font-bold {
   font-weight: 700;
 }
