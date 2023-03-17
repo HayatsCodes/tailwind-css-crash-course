@@ -755,6 +755,11 @@ video {
   padding: 0.25rem;
 }
 
+.py-12 {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
 .text-center {
   text-align: center;
 }
