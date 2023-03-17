@@ -526,6 +526,10 @@ video {
   margin-right: auto;
 }
 
+.mb-2 {
+  margin-bottom: 0.5rem;
+}
+
 .grid {
   display: grid;
 }
